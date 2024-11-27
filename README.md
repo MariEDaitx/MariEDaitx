@@ -1,5 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Hello&height=90)
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50)
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30)
+📫 How to reach me:
+ <img height="120px" src="https://cdn.discordapp.com/attachments/1118705853097328773/1118706345047236660/gifgithub.gif"/> 
+ <div >
+<a target="_blank" style="display: inline-block;" href="https://www.linkedin.com/in/maria-eduarda-santos-daitx-157b05334"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</div>
 <!--
 **MariEDaitx/MariEDaitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
