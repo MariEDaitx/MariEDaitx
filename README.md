@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Hello&my&name&is&Maria&Edurda🌱
-)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Hello&height=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50)
 <!--
 **MariEDaitx/MariEDaitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
