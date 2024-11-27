@@ -1,5 +1,6 @@
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Parkinsans&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Hello%2C+my+name+is+Maria+Eduarda;Ol%C3%A1%2C+Eu+me+chamo+Maria+Eduarda;I+am+a+Software+Engineering+student;Sou+estudante+de+Engenharia+de+Software;%F0%9F%8C%9F%F0%9F%8C%88+Welcome+to+my+Repository!!+%F0%9F%8C%88%F0%9F%8C%9F;%F0%9F%8C%88%F0%9F%8C%9F+Seja+Bem+vindos+ao+meu+reposit%C3%B3rio!!+%F0%9F%8C%88%F0%9F%8C%9F)](https://git.io/typing-svg)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=20)
 📫 How to reach me:
  <img height="120px" src="https://cdn.discordapp.com/attachments/1118705853097328773/1118706345047236660/gifgithub.gif"/> 
  <div >
