@@ -1,15 +1,21 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=500&pause=1000&color=6E6E6E&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=600&height=60&lines=Hello%2C+my+name+is+Maria+Eduarda;Ol%C3%A1%2C+Eu+me+chamo+Maria+Eduarda.;I+am+a+Software+Engineering+student;Sou+estudante+de+Engenharia+de+Software.;%F0%9F%8C%9F%F0%9F%8C%88+Welcome+to+my+Repository!!+%F0%9F%8C%88%F0%9F%8C%9F;%F0%9F%8C%9F%F0%9F%8C%88+Seja+Bem+vindos+ao+meu+reposit%C3%B3rio!!+%F0%9F%8C%88%F0%9F%8C%9F)](https://git.io/typing-svg)
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=10)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=5)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariEDaitx&show_icons=true&bg_color=00000000)
+<div align="center">
+       <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MariEDaitx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariEDaitx&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
+##
 🌱I’m currently learning | 🌱 Atualmente estou aprendendo:
  <img align="center" alt="Logo HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="Logo CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="Logo JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img align="center" alt="Logo React.JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=10)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=5)
+
 
 
 📫 How to reach me | 📫 Como entrar em contato comigo:
